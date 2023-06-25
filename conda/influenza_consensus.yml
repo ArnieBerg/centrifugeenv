@@ -1,0 +1,6 @@
+name: influenza_consensus
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
